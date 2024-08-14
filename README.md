@@ -21,7 +21,7 @@ Recipe Page Design
 
 ### Screenshot
 
-![](./01.08.2024_14.16.06_REC.png)
+![](./14.08.2024_16.46.03_REC.png)
 
 ### Links
 
